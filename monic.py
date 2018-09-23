@@ -60,10 +60,7 @@ class crapper:
         
 
         # extracting the follow up links
-       
-        
-        #next_page_links = tree.xpath("//div[@class='pagination']//li/a/@href")
-        
+             
 
         links = companies_links
 
